@@ -26,7 +26,7 @@ function App() {
                     <ul>
                         <li>
                             <img src="https://picsum.photos/200" alt="" />
-                            <div className="title">Title: TRUNGQUANDEV</div>
+                            <div className="title">Title: Vuong Van Truong</div>
                         </li>
                         <li>Add what you'd like to work on below</li>
                         <li>Add what you'd like to work on below</li>
