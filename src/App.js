@@ -12,8 +12,8 @@ function App() {
                     <header>Brainstorm</header>
                     <ul>
                         <li>
-                            <img src="https://picsum.photos/200" alt="" />
-                            <div className="title">Title: TRUNGQUANDEV</div>
+                            <img src="https://source.unsplash.com/random/200x200?sig=1" alt="random images" />
+                            <div className="title">Title: Vuong Van Truong</div>
                         </li>
                         <li>Add what you'd like to work on below</li>
                         <li>Add what you'd like to work on below</li>
